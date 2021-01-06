@@ -1,6 +1,4 @@
-<p>
-<img src="images/CC.jpg" width="900" height="585">
-</p>
+![marquee](/images/CC.jpg)
 
 # Credit Card Fraud Detection
 
