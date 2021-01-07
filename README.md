@@ -5,32 +5,41 @@
 **Authors**: Ning Chen, Michael Pozenvasser
 
 ## Overview
-This project investigated the credit card fraud detection.
-
-
-## Business Problem
+This research aimed at the case of customers default payments and compares the predictive accuracy of probability of default. Dataset was constructed by both [API](https://www.fraudlabspro.com/developer) calls and kaggle dataset. The research is studied as a classification machine learning problem with a binary variable, default payment as the response variable, and 23 explanatory features as predictor variables.
 
 
 
-
-## Data
-
-API, web scrapping, dataset
+The dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
 
 
-## Methods
-
-logistic regression, random forest bagging,  gridsearch + XGboost
-
-
-## Results
+## Business Understanding
+Machine learning methods are extensively used in finance, banking and insurance. The features of default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients are all important information for data scientists to predict the customers potential consumption and bank credit. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. 
 
 
+## Data 
 
-***
+### Data Collection
+In light of the finance problem we are interested in, related APIs are searched and compared to construct our dataset. Classical kaggle dataset and UCI machine learning repositroy in Center for Machine Learning and Intelligent Systems are referenced to our study.
 
-### Visualization
+
+### Exploratory Data Analysis (EDA)
 ![graph1](/images/box.png)
+
+
+### Feature Engineering
+
+By data preprocessing, domain-motivated features are developed. Positvely contributed features are tested to evaluate their performance in modeling. New features and interaction features such as delinquency, probability of default and exposure at default are studied.
+
+## Modeling Fitting
+
+Multiple models including logistic regression, KNN(k-nearest neighbors), decision tree, random forest, SVM(Support vector machine) and gridsearch & XGboost are all tested and compared. Pipeline is used with GridSearch. SMOTE and ADASYN are implemented to deal with the imbalance problem. Pros and cons are discussed for different models.
+
+## Modeling Evaluation
+The metric of accuracy_score, f1_score, classification_report, confusion_matrix, roc curve and auc score are all evaluated and provided.
+
+
+
+
 
 ## Conclusions
 
