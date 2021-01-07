@@ -48,7 +48,7 @@ The metric of accuracy_score, f1_score, classification_report, confusion_matrix,
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](https://github.com/ghcn345/Coronavirus-Research) or our [presentation]().
+Please review our full analysis in [our Jupyter Notebook](https://github.com/ghcn345/Credit-Card-Default-Prediction/blob/master/CCDefaultPrediction.ipynb) or our [presentation]().
 
 For any additional questions, please contact **Ning Chen—chen.ning345@gmail.com, Michael Pozenvasser**.
 
