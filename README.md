@@ -8,10 +8,6 @@
 This research aimed at the case of customers default payments and compares the predictive accuracy of probability of default. Dataset was constructed by both [API](https://www.fraudlabspro.com/developer) calls and kaggle dataset. The research is studied as a classification machine learning problem with a binary variable, default payment as the response variable, and 23 explanatory features as predictor variables.
 
 
-
-The dataset contains information on default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients in Taiwan from April 2005 to September 2005.
-
-
 ## Business Understanding
 Machine learning methods are extensively used in finance, banking and insurance. The features of default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients are all important information for data scientists to predict the customers potential consumption and bank credit. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. 
 
