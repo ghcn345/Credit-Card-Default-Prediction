@@ -1,4 +1,4 @@
-![marquee](/images/CC.jpg)
+![CC](/images/CC.jpg)
 
 # Credit Card Fraud Detection
 
