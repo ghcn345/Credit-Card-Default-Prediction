@@ -1,6 +1,6 @@
 ![CC](/images/CC.jpg)
 
-# Credit Card Fraud Detection
+# Credit Card Default Prediction
 
 **Authors**: Ning Chen, Michael Pozenvasser
 
