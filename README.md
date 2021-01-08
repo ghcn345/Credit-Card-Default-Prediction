@@ -30,6 +30,10 @@ Statistics for categorical variables
 
 By data preprocessing, domain-motivated features are developed. Positvely contributed features are tested to evaluate their performance in modeling. New features and interaction features such as delinquency, probability of default and exposure at default are studied.
 
+![Figure](/images/deliquency.jpg)
+
+![Figure](/images/utility.jpg)
+
 ## Modeling Fitting
 
 Multiple models including logistic regression, KNN(k-nearest neighbors), decision tree, random forest, SVM(support vector machine) and gridsearch & XGboost are all tested and compared. Pipeline is used with GridSearch. SMOTE and ADASYN are implemented to deal with the imbalance problem. Pros and cons are discussed for different models.
