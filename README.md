@@ -38,6 +38,8 @@ By data preprocessing, domain-motivated features are developed. Positvely contri
 
 Multiple models including logistic regression, KNN(k-nearest neighbors), decision tree, random forest, SVM(support vector machine) and gridsearch & XGboost are all tested and compared. Pipeline is used with GridSearch. SMOTE and ADASYN are implemented to deal with the imbalance problem. Pros and cons are discussed for different models.
 
+![Figure](/images/tree.jpg)
+
 ## Modeling Evaluation
 The metric of accuracy score, F1 score, classification_report, confusion_matrix, roc curve and auc score are all evaluated and provided.
 
