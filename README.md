@@ -52,7 +52,7 @@ The metric of accuracy score, F1 score, classification_report, confusion_matrix,
 1. The feature SEX and EDUCATION have different probability of default payment, according to both the statistical test and model evaluation, which means male/famle and different education levels have strong effects to the results.
 2. Both continuous variable and categorical variables play important roles in the modeling. Different models mark different strong predictors.
 3. The credit card default payment problem have highly imbalaced data. Even the data is processed with SMOTE technique, some metrics still does not show satisfactory reuslts. Because the real probability of default is unknown, we may implement artificial neural network to accurately estimate the real probability of default.
-
+4. XGboost serves as the best one in all classification models, but it also becomes expensive when we set up more hyperparameters in grid search.
 
 ## For More Information
 
