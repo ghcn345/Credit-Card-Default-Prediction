@@ -56,7 +56,7 @@ The metric of accuracy score, F1 score, classification_report, confusion_matrix,
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](https://github.com/ghcn345/Credit-Card-Default-Prediction/blob/master/CCDefaultPrediction.ipynb) or our [presentation]().
+Please review our full analysis in [our Jupyter Notebook](https://github.com/ghcn345/Credit-Card-Default-Prediction/blob/master/CCDefaultPrediction.ipynb) or our [presentation](https://github.com/ghcn345/Credit-Card-Default-Prediction/blob/master/CreditPP.pptx).
 
 For any additional questions, please contact **Ning Chen—chen.ning345@gmail.com, Michael Pozenvasser**.
 
