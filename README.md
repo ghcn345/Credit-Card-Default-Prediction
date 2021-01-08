@@ -65,7 +65,7 @@ Description of the structure of the repository and its contents:
 
 ## Annotation
 
-Column Names and descriptions for Credit Card Clients Dataset.
+Column names and descriptions for Credit Card Clients Dataset.
 
 * **ID**: ID of each client
 * **LIMIT_BAL**: Amount of given credit in NT dollars (includes individual and family/supplementary credit
