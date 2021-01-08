@@ -19,7 +19,11 @@ In light of the finance problem we are interested in, related APIs are searched 
 
 
 ### Exploratory Data Analysis (EDA)
+
+Relationship between exploratory variables and target variable
 ![overall](/images/overall.jpg)
+
+Statistics for categorical variables
 ![groupby](/images/groupby.jpg)
 
 ### Feature Engineering
