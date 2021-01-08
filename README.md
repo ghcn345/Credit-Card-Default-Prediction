@@ -19,8 +19,8 @@ In light of the finance problem we are interested in, related APIs are searched 
 
 
 ### Exploratory Data Analysis (EDA)
-![graph1](/images/box.png)
-
+![overall](/images/overall.jpg)
+![groupby](/images/groupby.jpg)
 
 ### Feature Engineering
 
