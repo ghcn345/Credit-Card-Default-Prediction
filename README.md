@@ -12,7 +12,7 @@ This research aimed at the case of customers default payments and compares the p
 Machine learning methods are extensively used in finance, banking and insurance. The features of default payments, demographic factors, credit data, history of payment, and bill statements of credit card clients are all important information for data scientists to predict the customers potential consumption and bank credit. From the perspective of risk management, the result of predictive accuracy of the estimated probability of default will be more valuable than the binary result of classification - credible or not credible clients. 
 
 
-## Data 
+## Data Understanding
 
 ### Data Collection
 In light of the finance problem we are interested in, related APIs are searched and compared to construct our dataset. Classical kaggle dataset and UCI machine learning repositroy in Center for Machine Learning and Intelligent Systems are referenced to our study.
