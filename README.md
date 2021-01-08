@@ -68,7 +68,7 @@ Description of the structure of the repository and its contents:
 ├── README                              <- The top-level README for reviewers of this project
 ├── CCDefaultPrediction                 <- Narrative documentation of analysis in Jupyter notebook
 ├── order                               <- Python file for API call in FraudLabsPro Python Library
-├── Project_Presentation                <- PDF version of project presentation
+├── Presentation                        <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 
